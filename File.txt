@@ -1,0 +1,2 @@
+Hola, este es un texto que yo escribi para ejemplificar el codigo que estoy escribiendo en Python.
+Esta es una linea que escribi para agregar una linea extra al archivo, y así probar el programa con un archivo de varias lineas.
